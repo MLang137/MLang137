@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MLang137
-- 👀 I’m interested in electrical circuits, Python and gaming
+- 👋 Hello there, I’m @MLang137
+- 👀 I’m interested in electrical circuits, writing Python scripts and gaming (Chris Sawyer's Locomotion, Minecraft)
 - 🌱 I’m currently studying electrical engineering
 
 
